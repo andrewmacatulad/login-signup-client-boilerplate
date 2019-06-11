@@ -297,7 +297,7 @@ class SignIn extends Component {
         <Typography>Or</Typography>
         <Divider variant="fullWidth" />
         <Button
-          color="#38A1F3"
+          color="primary"
           className={classes.buttonFb}
           component={Link}
           to="/signin"
